@@ -21,7 +21,7 @@ An interactive Tableau dashboard can be downloaded [here](https://public.tableau
 
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/Nhu93/Marketing-Campaign-Dashboard/blob/main/marketing_campaign_data_prep.sql).
 
-Targeted SQL queries regarding various business questions can be found here.
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/Nhu93/Marketing-Campaign-Dashboard/blob/main/marketing_campaign_performance_validation.sql).
 
 
 
